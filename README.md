@@ -1,2 +1,2 @@
 # vooger-site
-A personal, static website. 
+A personal, static website.
